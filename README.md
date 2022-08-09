@@ -1,4 +1,4 @@
-# Deductive_Logic_Game
+# Deductive Logic Game
 ## Writen in Python
 
 Bagels, by Al Sweigart al@inventwithpython.com
